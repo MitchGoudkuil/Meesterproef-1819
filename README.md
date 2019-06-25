@@ -1,7 +1,9 @@
+![afbeelding van een appel](/img/Apple.png)
 # Meesterproef-1819
 Alle links samengevoegd naar alle documenten voor de meesterproef.
 
 De link naar de repository waarin we de overhoorbot gebouwd hebben staat hieronder. Deze repo is opgezet door Arash Paknezad.
+
 
 - [overhoorbot](https://github.com/Arash217/meesterproef-1819)
 ---
