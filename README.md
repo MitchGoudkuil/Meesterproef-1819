@@ -20,5 +20,5 @@ De link naar de repository waarin we de overhoorbot gebouwd hebben staat hierond
 - [Artikel 3](leeg)
 ---
 #### Link Weekly Mingle and nerd
-- [Weekly Mingle](leeg)
+- [Weekly Mingle](/weeklyMingle/weeklymingle.md)
 - [Sketchnotes](leeg)
