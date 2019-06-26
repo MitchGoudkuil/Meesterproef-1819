@@ -1,6 +1,7 @@
 ![afbeelding van een appel](/img/Apple.png)
 # Meesterproef-1819
-all links bundled together to all the different reports we had to make for the meesterproef.
+For the meesterproef I had to make some reports.
+All links to the different reports are listed down below.
 
 The link to the repository with all the code of the Overhoorbot project we worked in.
 
