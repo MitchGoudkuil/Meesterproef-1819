@@ -5,9 +5,10 @@ all links bundled together to all the different reports we had to make for the m
 The link to the repository with all the code of the Overhoorbot project we worked in.
 
 - [Overhoorbot](https://github.com/Arash217/meesterproef-1819)
+- [Design rationale link](https://designrationale-1.gitbook.io/design-rationale/)
 ---
 
-#### Product Biografie and reflection
+#### Product Biography and reflection
 - [Product Biography link](https://mitchgoudkuil94.gitbook.io/product-biografie/)
 - [Reflection link](/reflectie/reflectie.md)
 
@@ -18,4 +19,4 @@ The link to the repository with all the code of the Overhoorbot project we worke
 ---
 #### Link Weekly Mingle and weekly nerd
 - [Weekly Mingle](/weeklyMingle/weeklymingle.md)
-- [Sketchnotes](leeg)
+- [Sketchnotes](/sketch-notes/sketchnotes.md)
